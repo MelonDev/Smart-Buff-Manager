@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "th.ac.up.agr.thai_mini_chicken"
+        applicationId "th.ac.up.agr.manager_buff_smart"
         minSdkVersion 21
         targetSdkVersion 27
         versionCode 1

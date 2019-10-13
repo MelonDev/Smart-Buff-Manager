@@ -1,58 +1,42 @@
 {
   "project_info": {
-    "project_number": "562602916596",
-    "firebase_url": "https://tnc-farm-manager-7f541.firebaseio.com",
-    "project_id": "tnc-farm-manager-7f541",
-    "storage_bucket": "tnc-farm-manager-7f541.appspot.com"
+    "project_number": "761726523772",
+    "firebase_url": "https://smart-buff-manager.firebaseio.com",
+    "project_id": "smart-buff-manager",
+    "storage_bucket": "smart-buff-manager.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:562602916596:android:793fe8a3bd322202",
+        "mobilesdk_app_id": "1:761726523772:android:7d0ae60f1309e6de6cacf9",
         "android_client_info": {
-          "package_name": "th.ac.up.agr.thai_mini_chicken"
+          "package_name": "th.ac.up.agr.manager_buff_smart"
         }
       },
       "oauth_client": [
         {
-          "client_id": "562602916596-r663knj6k1gk9eqhir1lhlbdvucj7v6s.apps.googleusercontent.com",
+          "client_id": "761726523772-0bnrl75vj0ulfsv8ibf88hnahgubr51s.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "th.ac.up.agr.thai_mini_chicken",
-            "certificate_hash": "e63a6030696ad6619fcf92c3b13597f4b0041b35"
+            "package_name": "th.ac.up.agr.manager_buff_smart",
+            "certificate_hash": "0aaf6882cde7bfd519534ae049dd205fb720b61c"
           }
         },
         {
-          "client_id": "562602916596-4fih71gqlqtour21hu1t1rsqfeslmsc3.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "th.ac.up.agr.thai_mini_chicken",
-            "certificate_hash": "04a77daf4539c2946c0cf6ddc6afa9fe8ab36511"
-          }
-        },
-        {
-          "client_id": "562602916596-nhfk06c9gg92i8ond9d4p32qrulagad9.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "th.ac.up.agr.thai_mini_chicken",
-            "certificate_hash": "6806c4d4fb837ed9d5cf024216cc28bf37c00da0"
-          }
-        },
-        {
-          "client_id": "562602916596-9unst58a54i3i3levruhbc70v9eaqbng.apps.googleusercontent.com",
+          "client_id": "761726523772-73nn4lag6f504umjaiqb67hrug8iia1s.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA5MAlQa5arQiSr6Q-SITtr3USXhsgZwoA"
+          "current_key": "AIzaSyDC7pmW2wZwvrW2kdxO8_obdhwkKpwbbnk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "562602916596-9unst58a54i3i3levruhbc70v9eaqbng.apps.googleusercontent.com",
+              "client_id": "761726523772-73nn4lag6f504umjaiqb67hrug8iia1s.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
